@@ -1,0 +1,17 @@
+{
+  "produto": "misysis-fiscal",
+  "versao": "2.0.0",
+  "publicada_em": "2026-10-28",
+  "obrigatoria": false,
+  "versao_minima": "2.0.0",
+  "notas": [
+    "Primeira versão instalável do MisySIS Fiscal."
+  ],
+  "pagina": "https://github.com/jessicadelourenco2017-maker/MysiSIS-Fiscal/releases/tag/v1.0",
+  "download": {
+    "url": "https://github.com/jessicadelourenco2017-maker/MysiSIS-Fiscal/releases/download/v1.0/MisySIS_Fiscal_Setup_2.0.0.exe",
+    "sha256": "703467d0083a43a07e0aa805b5699dc8cace843bb510eee45aff66cbf7c3ea1b",
+    "tamanho_bytes": 0
+  },
+  "assinatura": "qzaVvE3S8fZFLv6LmQiVgoYbl8XR3Y6Fyo8s4pBde7ex/XJz1CqWbxQcsMzUhxyhEs2dqQbVrUe8zDBPEHYPDg=="
+}
